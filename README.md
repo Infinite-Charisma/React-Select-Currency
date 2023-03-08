@@ -30,7 +30,6 @@ Try the [Demo](https://lsiden.github.io/react-select-currency/)
 
 
 # Credits
-
 This component makes use of the following components, with thanks and acknowledgement to the authors and contributors:
 
 * [country-code](https://github.com/ckaatz-nokia/cc)
@@ -38,10 +37,8 @@ This component makes use of the following components, with thanks and acknowledg
 * [locale-currency](https://github.com/tadeegan/locale-currency)
 
 # Author
-
 Lawrence Siden  
 Ann Arbor, MI
 
 # License
-
 [MIT](https://opensource.org/licenses/MIT)
