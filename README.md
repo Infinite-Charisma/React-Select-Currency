@@ -7,6 +7,7 @@ On command line:
 
         (npm | yarn) react-select-currency
 
+
 # Usage
 
         import React from 'react';
@@ -26,6 +27,7 @@ On command line:
         }
 
 Try the [Demo](https://lsiden.github.io/react-select-currency/)
+
 
 # Credits
 This component makes use of the following components, with thanks and acknowledgement to the authors and contributors:
